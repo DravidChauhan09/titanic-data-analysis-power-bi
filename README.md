@@ -150,7 +150,12 @@ titanic-data-analysis-power-bi/
     └── Titanic_Dashboard.png
 
 ---
-Titanic_Dashboard.png
+## 🖼️ Dashboard Preview
+
+ 
+![titanic-data-analysis-powwer-bi](Titanic_Dashboard.png)
+
+---
 
 ## 👨‍💻 Author
 
